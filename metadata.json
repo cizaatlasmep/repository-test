@@ -1,8 +1,0 @@
-{
-  "name": "Remix: Atlas MEP Group",
-  "description": "Unified mechanical, electrical, and plumbing design-build contractor company website and interactive Seed Round investment portal.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
